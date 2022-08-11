@@ -5,7 +5,7 @@
 ### 1. Clone or Download zip to yourself
 
 ```sh
-git clone {it}
+git clone https://github.com/firdavsDev/Payme-integration.git
 ```
 
 ### 2. Set credentials
